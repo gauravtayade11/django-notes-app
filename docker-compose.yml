@@ -4,3 +4,4 @@ services :
      image : gauravt11/node-app:latest
      ports :
          - "8000:8000"
+
